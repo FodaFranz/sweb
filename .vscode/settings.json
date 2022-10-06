@@ -1,0 +1,20 @@
+{
+    "cmake.buildDirectory": "/tmp/sweb",
+    "debug.onTaskErrors": "debugAnyway",
+    "cmake.configureSettings": {
+        "DDEBUG":"1",
+    },
+    "cmake.buildTask": true,
+    "files.associations": {
+        "bit": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "map": "cpp",
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "boot.32.C": "cpp"
+    }
+}
